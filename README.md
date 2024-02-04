@@ -1,2 +1,2 @@
 # tsugite-js
-Javascript version of marialarsson/tsugite
+React Javascript version of marialarsson/tsugite
